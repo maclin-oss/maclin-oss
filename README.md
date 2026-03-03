@@ -4,14 +4,12 @@
 I build **practical machine learning projects** and **open-source Python tools** focused on real-world data workflows.
 
 I enjoy working on:
-- 📊 Data preprocessing & pipelines
-- 🤖 Machine Learning models
-- 🧪 Experimentation & reproducibility
-- 🛠️ Developer-friendly ML utilities
+- Data preprocessing & pipelines
+- Machine Learning models
+- Experimentation & reproducibility
+- Developer-friendly ML utilities
 
----
-
-## 📌 What I Focus On
+#### What I Focus On
 
 - Writing **clean, modular, reusable code**
 - Solving **real data problems**
