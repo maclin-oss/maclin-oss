@@ -1,7 +1,8 @@
 # Hi, I'm Suresh 👋 
 ### Aspiring ML Engineer | Python • ML • Open Source Learner
 
-I build **practical machine learning projects** and **open-source Python tools** focused on real-world data workflows.
+I'm an M.Sc. grad skilled in Python, ML, and data-driven systems.
+Focused on solving real-world problems through intelligent solutions.
 
 I enjoy working on:
 - Data preprocessing & pipelines
